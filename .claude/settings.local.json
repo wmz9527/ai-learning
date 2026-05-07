@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"D:\\\\wmz_work\\\\code_file\\\\dev-skill\")",
+      "Read(//d/wmz_work/code_file/dev-skill/**)",
+      "Bash(find \"D:\\\\wmz_work\\\\code_file\\\\dev-skill\" -type f | head -50)",
+      "Bash(npm install *)"
+    ]
+  }
+}
